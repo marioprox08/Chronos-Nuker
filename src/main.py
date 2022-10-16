@@ -27,7 +27,7 @@ def main():
         os.system('clear')
 
     # Set Console title
-    set_console_title("Chronos V1 | Made by gokimax | Menu")
+    set_console_title("Chronos V1 | Made by GangShit Staff | Menu")
 
     # ========================================================================================================================================================= #
 
@@ -60,7 +60,7 @@ def main():
 
     # ========================================================================================================================================================= #
 
-    info = f"""{Fore.LIGHTCYAN_EX}\t\t\t\t\t  [+] Made by gokimax [+]"""
+    info = f"""{Fore.LIGHTCYAN_EX}\t\t\t\t\t  [+] Made by GangShit [+]"""
     for x in info:
         time.sleep(0.0001)
         sys.stdout.write(x)
@@ -146,7 +146,7 @@ def socials():
         os.system('clear')
 
     # Set Console title
-    set_console_title("Chronos V1 | Made by gokimax | Socials")
+    set_console_title("Chronos V1 | Made by GangShit | Socials")
 
     banner = f"""
                                  _________                    .___.__  __          
